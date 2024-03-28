@@ -3,6 +3,6 @@
 
 ## 快速上手 Quick Start
 1. 克隆或者下载本仓库到本地
-2. 使用MarkDown阅读器打开（建议使用Obsidian，作者编写时使用的是Obsidian）
+2. 使用MarkDown阅读器打开（建议使用Obsidian，作者编写时使用的是Obsidian，这样格式不会错（大概吧））
 
 ## 特性 Features
