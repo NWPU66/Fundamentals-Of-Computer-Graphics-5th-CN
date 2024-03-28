@@ -6,6 +6,8 @@
 2. 使用MarkDown阅读器打开
 > 建议使用Obsidian，作者编写时使用的是Obsidian，这样格式不会错（大概吧）
 
+## 特性 Features
+
 ## 进度 Progress
 - [x] Chapter 1 & 2 介绍与数学基础
 - [x] Chapter 3 光栅图像
@@ -22,5 +24,3 @@
 - [ ] Chapter 15 曲线
 - [ ] Chapter 16 计算机动画
 - [ ] Chapter 17 使用图形硬件
-
-## 特性 Features
