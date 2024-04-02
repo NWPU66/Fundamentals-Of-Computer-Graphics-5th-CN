@@ -21,6 +21,6 @@
 - [x] Chapter 12 图形数据结构
 - [x] Chapter 13 采样
 - [x] Chapter 14 PBR：基于物理的渲染
-- [ ] Chapter 15 曲线
+- [x] Chapter 15 曲线
 - [ ] Chapter 16 计算机动画
 - [ ] Chapter 17 使用图形硬件
