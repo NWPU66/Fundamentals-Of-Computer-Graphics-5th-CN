@@ -22,5 +22,11 @@
 - [x] Chapter 13 采样
 - [x] Chapter 14 PBR：基于物理的渲染
 - [x] Chapter 15 曲线
-- [ ] Chapter 16 计算机动画
-- [ ] Chapter 17 使用图形硬件
+- [x] Chapter 16 计算机动画
+- [x] Chapter 17 使用图形硬件
+- [ ] Chapter 18 色彩
+- [ ] Chapter 19 视觉感知
+- [ ] Chapter 20 色调重构
+- [ ] Chapter 21 隐式建模
+- [ ] Chapter 22 游戏中的计算机图形学
+- [ ] Chapter 23 可视化
