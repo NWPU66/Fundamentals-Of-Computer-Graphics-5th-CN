@@ -24,7 +24,7 @@
 - [x] Chapter 15 曲线
 - [x] Chapter 16 计算机动画
 - [x] Chapter 17 使用图形硬件
-- [ ] Chapter 18 色彩
+- [x] Chapter 18 色彩
 - [ ] Chapter 19 视觉感知
 - [ ] Chapter 20 色调重构
 - [ ] Chapter 21 隐式建模
