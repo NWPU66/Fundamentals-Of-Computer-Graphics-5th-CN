@@ -25,8 +25,8 @@
 - [x] Chapter 16 计算机动画
 - [x] Chapter 17 使用图形硬件
 - [x] Chapter 18 色彩
-- [ ] Chapter 19 视觉感知
-- [ ] Chapter 20 色调重构
+- [x] Chapter 19 视觉感知
+- [x] Chapter 20 色调重构
 - [ ] Chapter 21 隐式建模
 - [ ] Chapter 22 游戏中的计算机图形学
 - [ ] Chapter 23 可视化
