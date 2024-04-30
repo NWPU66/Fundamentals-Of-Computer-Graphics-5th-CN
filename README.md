@@ -1,10 +1,13 @@
 # 项目介绍 Intro
 这是“虎书”——《Fundamentals Of Computer Graphics》（第五版）的中文翻译，同时也是我读这本书时的学习笔记。
 
+> PS：从24年2月末开始，到今天2024.4.30，终于是将本书的翻译完成了。
+> 由于本人的知识有限，对于一些章节中无法完全理解的知识，而造成翻译上的错误以及不通顺的文本，在此表示抱歉。未来，在我重新阅读这本书的时候，我会尝试地将它们翻译得更好。
+
 ## 快速上手 Quick Start
-1. 克隆或者下载本仓库到本地 `git clone https://github.com/NWPU66/Fundamentals-Of-Computer-Graphics-5th-CN.git`
-2. 使用MarkDown阅读器打开
-> 建议使用Obsidian，作者编写时使用的是Obsidian，这样格式不会错（大概吧）
+1. 克隆或者下载本仓库到本地 `git clone https://github.com/NWPU66/Fundamentals-Of-Computer-Graphics-5th-CN.git`。
+2. 使用MarkDown阅读器打开。
+> 建议使用Obsidian，作者编写时使用的是Obsidian，这样格式不会错（大概吧）。
 
 ## 特性 Features
 
@@ -29,4 +32,4 @@
 - [x] Chapter 20 色调重构
 - [x] Chapter 21 隐式建模
 - [x] Chapter 22 游戏中的计算机图形学
-- [ ] Chapter 23 可视化
+- [x] Chapter 23 可视化
