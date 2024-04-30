@@ -27,6 +27,6 @@
 - [x] Chapter 18 色彩
 - [x] Chapter 19 视觉感知
 - [x] Chapter 20 色调重构
-- [ ] Chapter 21 隐式建模
-- [ ] Chapter 22 游戏中的计算机图形学
+- [x] Chapter 21 隐式建模
+- [x] Chapter 22 游戏中的计算机图形学
 - [ ] Chapter 23 可视化
