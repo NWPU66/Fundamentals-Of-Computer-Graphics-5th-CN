@@ -1,5 +1,4 @@
 ![](pic/AI3_ae_00000.png)
-> 封面是笔者的业余作品
 
 # 项目介绍 Intro
 这是“虎书”——《Fundamentals Of Computer Graphics》（第五版）的中文翻译，同时也是我读这本书时的学习笔记。
