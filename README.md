@@ -44,3 +44,11 @@
 - [x] Chapter 21 隐式建模
 - [x] Chapter 22 游戏中的计算机图形学
 - [x] Chapter 23 可视化
+
+## 更新 Update
+### 2024-07-04
+我才发现我把所有的“Texel”都翻译成了“像素元”，准确的含义应该是“纹理元”或“纹理单元”。已经修正了。
+>[!note] Texel 纹理元
+>屏幕像素C_screen在贴图纹理空间上对应的不规则空间区域R，我们想计算屏幕像素的值C_screen，就必须计算区域R上颜色的平均值，这时我们采样R区域上的贴图像素C_texture，每一个纹理贴图像素被称为“纹理元”Texel。
+>![](https://img-blog.csdn.net/20170315165913210)
+>[texel是什么？texel概念和自己理解的texel]([texel是什么？texel概念和自己理解的texel-CSDN博客](https://blog.csdn.net/shenmifangke/article/details/56676471))
