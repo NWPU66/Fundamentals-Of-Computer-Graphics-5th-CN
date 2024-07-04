@@ -51,4 +51,4 @@
 >[!note] Texel 纹理元
 >屏幕像素C_screen在贴图纹理空间上对应的不规则空间区域R，我们想计算屏幕像素的值C_screen，就必须计算区域R上颜色的平均值，这时我们采样R区域上的贴图像素C_texture，每一个纹理贴图像素被称为“纹理元”Texel。
 >![](https://img-blog.csdn.net/20170315165913210)
->[texel是什么？texel概念和自己理解的texel]([texel是什么？texel概念和自己理解的texel-CSDN博客](https://blog.csdn.net/shenmifangke/article/details/56676471))
+>[texel是什么？texel概念和自己理解的texel-CSDN博客](https://blog.csdn.net/shenmifangke/article/details/56676471)
