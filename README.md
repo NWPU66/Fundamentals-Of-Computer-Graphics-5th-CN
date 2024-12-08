@@ -29,6 +29,13 @@
 
 ## 更新 Update
 
+### 2024-12-8
+
+更新了两篇文章：
+
+1. 《关于蒙特卡洛重要性采样无偏性、有效性的条件》
+2. 《重要性采样中的分布转换》
+
 ### 2024-07-16
 
 用格式化插件 Prettier 重构了整个文档，现在看起来应该更舒服了。
@@ -39,7 +46,7 @@
 
 > [!note] Texel 纹理元
 > 屏幕像素 C_screen 在贴图纹理空间上对应的不规则空间区域 R，我们想计算屏幕像素的值 C_screen，就必须计算区域 R 上颜色的平均值，这时我们采样 R 区域上的贴图像素 C_texture，每一个纹理贴图像素被称为“纹理元”Texel。
-> ![abc](https://img-blog.csdn.net/20170315165913210) 
+> ![abc](https://img-blog.csdn.net/20170315165913210)
 > [texel 是什么？texel 概念和自己理解的 texel-CSDN 博客](https://blog.csdn.net/shenmifangke/article/details/56676471)
 
 ## 进度 Progress
