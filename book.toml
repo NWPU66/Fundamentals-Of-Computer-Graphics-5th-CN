@@ -1,0 +1,10 @@
+[book]
+title = "《Fundamentals of Computer Graphics》（第五版）中文翻译"
+language = "zh-CN"
+
+[preprocessor.mathjax]
+command = "python3 mathjax_preprocessor.py"
+
+[output.html]
+mathjax-support = true
+additional-css = ["theme/custom.css"]

@@ -1,4 +1,4 @@
-![](pic/AI3_ae_00000.png)
+![](src/pic/AI3_ae_00000.png)
 
 # 项目介绍 Intro
 
@@ -44,7 +44,9 @@
 
 我才发现我把所有的“Texel”都翻译成了“像素元”，准确的含义应该是“纹理元”、“纹素”或“纹理单元”。已经修正了。
 
-> [!note] Texel 纹理元
+> [!NOTE]
+> Texel 纹理元
+>
 > 屏幕像素 C_screen 在贴图纹理空间上对应的不规则空间区域 R，我们想计算屏幕像素的值 C_screen，就必须计算区域 R 上颜色的平均值，这时我们采样 R 区域上的贴图像素 C_texture，每一个纹理贴图像素被称为“纹理元”Texel。
 > ![abc](https://img-blog.csdn.net/20170315165913210)
 > [texel 是什么？texel 概念和自己理解的 texel-CSDN 博客](https://blog.csdn.net/shenmifangke/article/details/56676471)
